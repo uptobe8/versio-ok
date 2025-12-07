@@ -1,2 +1,0 @@
-# versio-ok
-versio ok
